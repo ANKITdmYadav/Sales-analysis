@@ -45,7 +45,7 @@ pip install numpy pandas matplotlib seaborn
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/shruti23-ui/Diwali_Sales_Analysis.git
+git clone https://github.com/ANKITdmYadav/Sales-analysis
 ```
 2. Navigate to the project directory:
 ```bash
