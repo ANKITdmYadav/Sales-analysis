@@ -61,13 +61,5 @@ jupyter notebook Diwali_Sales_Analysis.ipynb
 - **Gender:** The analysis shows a higher purchasing power among female buyers compared to male buyers.
 - **Age:** Insights suggest certain age groups have higher purchase frequencies.
 
-## Contribution
 
-Feel free to contribute by opening issues or submitting pull requests. 
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
